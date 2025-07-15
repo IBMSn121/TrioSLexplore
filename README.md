@@ -3,7 +3,7 @@ This repository will contain the raw data and matlab/R codes upon reasonable req
 
 
 ------------------------------------------------
-Corresponding Author and Website Administrator:
+First Author and Website Administrator:
 
 Wei-Quan Fang, Ph.D., Statistical Reviewer
 
