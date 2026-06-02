@@ -1,5 +1,5 @@
 # TrioSLexplore
-This repository will contain the raw data and matlab/R codes upon reasonable request to reproduce the results in the manuscript entitled: ```Exploring the role of SPIB-BACH2-OCT2 trio in IRF4-dependent synthetic lethality in diffuse large B-cell lymphoma across diverse cohorts: Implications for precision medicine```
+This repository will contain the raw data and matlab/R codes upon reasonable request to reproduce the results in the manuscript entitled: ```Transferability and Clinical Implications of the SPIB-BACH2-OCT2 Trio in IRF4-Dependent Synthetic Lethality in Diffuse Large B-Cell Lymphoma```
 
 
 ------------------------------------------------
