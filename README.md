@@ -5,7 +5,7 @@ This repository will contain the raw data and matlab/R codes upon reasonable req
 ------------------------------------------------
 First Author and Website Administrator:
 
-Wei-Quan Fang, Ph.D., Statistical Reviewer
+Wei-Quan Fang, Ph.D., Senior Statistical Reviewer
 
 Division of New Drug, Center for Drug Evaluation, Taipei 11557, Taiwan
 
