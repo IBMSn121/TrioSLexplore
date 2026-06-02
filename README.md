@@ -7,6 +7,6 @@ First Author and Website Administrator:
 
 Wei-Quan Fang, Ph.D., Senior Statistical Reviewer
 
-Division of New Drug, Center for Drug Evaluation, Taipei 11557, Taiwan
+Division of New Drugs, Center for Drug Evaluation, Taipei 11557, Taiwan
 
 E-Mail: wqfang1022@cde.org.tw, deleapoli@gmail.com
